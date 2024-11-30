@@ -1,6 +1,6 @@
 # Online Judge Platform
 
-An advanced Online Judge Platform for coding competitions and practice sessions, designed to provide a seamless experience for users with features like multi-language support, role-based authorization, and secure code execution.
+An advanced Online Judge Platform for coding practice sessions, designed to provide a seamless experience for users with features like multi-language support, role-based authorization, and secure code execution.
 
 ## Features
 
